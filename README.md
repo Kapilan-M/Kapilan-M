@@ -24,7 +24,7 @@ This is my Github playground where I deepen my analytical/quantitative skillsets
 ## Certifications
 
 - Google Professional Data Analytics (Coursera)
-- Data Analytics using Power BI (SMU Academy, enrolled)
+- Data Analytics using Power BI (SMU Academy, completed)
 - Financial Analytics with Python (SMU Academy, enrolled)
 - Certified Scrum Master (NUS Lifelong Learning, enrolled)
 
