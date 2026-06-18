@@ -15,7 +15,7 @@ This is my Github playground where I deepen my analytical/quantitative skillsets
 - **Quantitative Analysis & Modeling:**  
   Econometrics, Monte Carlo simulations, VaR stress testing, optimal control theory (Lagrangian/Hamiltonian methods), matrix analysis, multivariate calculus.
 - **Programming & Tools:**  
-  Python (pandas, NumPy), R (tidyverse), SQL, STATA
+  Python (pandas, polar, NumPy, mplfinance, plotly), R (tidyverse), SQL, STATA
 - **Data Visualization & Business Analytics:**  
   Tableau, Power BI, Bloomberg Terminal, Excel (macros, pivot tables)
 
