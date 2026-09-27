@@ -17,16 +17,17 @@ This is my Github playground where I deepen my analytical/quantitative skillsets
 - **Programming & Tools:**  
   Python (pandas, polar, NumPy, mplfinance, plotly), R (tidyverse), SQL, STATA
 - **Data Visualization & Business Analytics:**  
-  Tableau, Power BI, Bloomberg Terminal, Excel (macros, pivot tables)
+  Tableau, Power BI, Bloomberg Terminal, Excel (macros, pivot tables), Power Query, Power Automate, Sharepoint
 
 ---
 
 ## Certifications
 
 - Google Professional Data Analytics (Coursera)
-- Data Analytics using Power BI (SMU Academy, completed)
-- Financial Analytics with Python (SMU Academy, enrolled)
-- Certified Scrum Master (NUS Lifelong Learning, enrolled)
+- Data Analytics using Power BI
+- Python Programming Fundamentals
+- CFA Level I
+- FRM Part 1
 
 ---
 
