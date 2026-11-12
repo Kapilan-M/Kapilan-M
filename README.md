@@ -31,4 +31,4 @@ This is my Github playground where I deepen my analytical/quantitative skillsets
 
 ---
 
-*For more, see my [Google Site](https://sites.google.com/view/kapilanmn) or contact me at kapilan08@gmail.com*
+*For more information about me, see my [Google Site](https://sites.google.com/view/kapilanmn) or contact me at kapilan08@gmail.com*
